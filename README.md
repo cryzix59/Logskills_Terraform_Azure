@@ -47,3 +47,6 @@ After, charge our own SSH Keys
 ## Third Step : deployment
 After, you can run terraform apply 
 All ressources will be created by Terraform without actions
+
+## Automation with Ansible
+The project is automatized by Ansible. Please visit : https://github.com/etienneplagnieux/Logskills_Ansible
