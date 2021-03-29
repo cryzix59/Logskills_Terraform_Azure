@@ -3,7 +3,9 @@ Terraform code (Azure) for Logskills project at ESIEE School
 
 # Cloud Architecture
 
-TODO
+Optimal architecture desired 
+![Optimal architecture](https://raw.githubusercontent.com/etienneplagnieux/Logskills_Terraform_Azure/ebc0fc44f93d528eb2f5edae238c7809ebb47c5a/img/Logskills_Architecture_HA.svg?token=AO46RG2TNG3O4AN362TAKETAMHF2E)
+
 
 # Running project
 To run the project, you need the Terraform and Azure CLI installed on our computer
