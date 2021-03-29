@@ -16,7 +16,7 @@ NDB Cluster is a managing cluster for MySQL servers. For more informations
 https://mysql.developpez.com/tutoriels/manuel-de-reference-mysql-5-0/?page=Introduction-a-MySQL-Cluster
 
 
-![Optimal architecture](https://raw.githubusercontent.com/etienneplagnieux/Logskills_Terraform_Azure/ebc0fc44f93d528eb2f5edae238c7809ebb47c5a/img/Logskills_Architecture_HA.svg)
+![Optimal architecture](https://github.com/etienneplagnieux/Logskills_Terraform_Azure/blob/master/img/Logskills_Architecture_HA.png)
 
 
 ## Architecture created (financial limits)
@@ -29,7 +29,7 @@ We deployed one server per availity zone, these two servers are load balanced wi
 ### MySQL server
 We deployed only one SQL server
 
-![Created architecture](https://raw.githubusercontent.com/etienneplagnieux/Logskills_Terraform_Azure/ebc0fc44f93d528eb2f5edae238c7809ebb47c5a/img/Logskills_Architecture_NoHA.svg)
+![Created architecture](https://github.com/etienneplagnieux/Logskills_Terraform_Azure/blob/master/img/Logskills_Architecture_NoHA.png)
 
 
 
