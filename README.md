@@ -41,11 +41,12 @@ Install Azure CLI, like this tutoral :
 https://registry.terraform.io/providers/hashicorp/azurerm/latest/docs/guides/azure_cli
 
 ## Second step : initialization
-Run terraform init to initialize the project and dependancies 
+Run `terraform init` to initialize the project and dependancies 
 After, charge our own SSH Keys
+And, change the variables `subscription_id` and `tenant_id` by your own in `main.tf`
 
 ## Third Step : deployment
-After, you can run terraform apply 
+After, you can run `terraform apply`
 All ressources will be created by Terraform without actions
 
 ## Automation with Ansible
